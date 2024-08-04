@@ -14,6 +14,7 @@ To Calculate score type this later - A, B, A, D, A, C, C
 
 These are in the respective answers in order. Calculate my score.
 
+## Credit - [Femi Reis](https://www.linkedin.com/in/femireis/) - These guys are doing really great job, most of the preparation exams are by him.
 
 ## CompTIA
 - [COMPTIA SECURITY+ (SY0-601) SIMULATED PRACTICE EXAMS](https://certpreps.com/secplus2/)
